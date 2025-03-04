@@ -36,9 +36,9 @@
     ```
     - 拉取模型
     ```bash
-    ollama pull mistral
+    ollama pull mistral (llama3.2/Qwen2.5 ...)
     ```
-- cd ai-chat-app
+- cd chatbot
 - npm install
 - npm start
 - 在浏览器中打开 http://localhost:3000
