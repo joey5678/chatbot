@@ -21,7 +21,7 @@
 
 1. 克隆项目仓库
     ```bash
-    git clone https://github.com/your-repo/ai-chat-app.git
+    git clone https://github.com/joey5678/chatbot.git
     ```
 
 2. User Guide
